@@ -1,11 +1,12 @@
 # Cost Calculate
 
-A simple project for calculating costs.
+A multi-page Streamlit application for calculating and visualizing IT project costs and profitability.
 
 ## Features
 
-- Easy-to-use interface
-- Accurate cost calculations
+- Easy-to-use interface with multi-page navigation
+- Accurate cost calculations and profit margin analysis
+- Interactive financial visualizations
 - Lightweight and efficient
 
 ## Installation
@@ -40,8 +41,10 @@ A simple project for calculating costs.
 
 Run the application:
 ```bash
-streamlit run cost-calculate.py
+streamlit run Home.py
 ```
+
+Navigate between pages using the sidebar.
 
 ## Contributing
 
